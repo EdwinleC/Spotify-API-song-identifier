@@ -20,8 +20,8 @@ const readline = require('readline');
 
 // Spotify API credentials
 const spotifyApi = new SpotifyWebApi({
-  clientId: '2a49552af8234223bdfdd2d0b5693e5b',
-  clientSecret: 'a3380319febe45dd80d54651b3053c00'
+  clientId: 'API KEY',
+  clientSecret: 'SECRET KEY'
 });
 
 // Get access token from Spotify API
