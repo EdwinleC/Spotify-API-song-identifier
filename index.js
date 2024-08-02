@@ -8,7 +8,7 @@ Elements you need to input into the terminal:
   npm init -y
   npm install node
   npm install spotify-web-api-node readline
-The node modules are deleted as per requirement, thus the program will not run if the node modules are not installed
+The node modules are deleted, thus the program will not run if the node modules are not installed
 --------------------------
 To run the program in the terminal:
   node index.js
